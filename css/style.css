@@ -173,6 +173,12 @@ nav {
   padding: 0 10px;
 }
 
+@media (max-width: 320px) {
+  .container {
+    padding: 0 5px;
+  }
+}
+
 .button.button-out,
 .button.button-cart {
   background-color: transparent;

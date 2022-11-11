@@ -681,12 +681,12 @@ button.counter-button {
 }
 
 #login {
-  width: 90%;
+  width: 230px;
 
 }
 
 #password {
-  width: 90%;
+  width: 230px;
 }
 
 .input__block {
@@ -700,7 +700,7 @@ button.counter-button {
 
 span.icon-eye {
   position: absolute;
-  bottom: 0;
+  bottom:10px;
   right: 30px;
   font-size: 20px;
   color: rgb(52, 41, 41);
@@ -708,7 +708,7 @@ span.icon-eye {
 
 span.icon-eye-blocked {
   position: absolute;
-  bottom: 0px;
+  bottom: 10px;
   right: 0px;
   font-size: 20px;
   color: rgb(52, 41, 41);

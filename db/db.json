@@ -1,0 +1,56 @@
+[
+   {
+      "image": "./img/cards/card1.png",
+      "kitchen": "блюда разных кухонь, блюда на заказ",
+      "name": "Palki-Skalki",
+      "price": "200",
+      "products": "Palki-Skalki.json",
+      "stars": "4.5",
+      "time_of_delivery": "50"
+   },
+   {
+      "image": "./img/cards/card2.png",
+      "kitchen": "блюда из яиц",
+      "name": "Gusi-Lebedi",
+      "price": "100",
+      "products": "Gusi-Lebedi.json",
+      "stars": "4",
+      "time_of_delivery": "30"
+   },
+   {
+      "image": "./img/cards/card3.png",
+      "kitchen": "традиционная американская кухня",
+      "name": "Food-Band",
+      "price": "150",
+      "products": "Food-Band.json",
+      "stars": "5",
+      "time_of_delivery": "60"
+   },
+   {
+      "image": "./img/cards/card4.png",
+      "kitchen": " суши, китайская и японская кухни",
+      "name": "Tanuki",
+      "price": "300",
+      "products": "Tanuki.json",
+      "stars": "4.8",
+      "time_of_delivery": "50"
+   },
+   {
+      "image": "./img/cards/card5.png",
+      "kitchen": "пиццы, бургеры, жульены, блюда из грибов, шаурма",
+      "name": "Pizza-Burger",
+      "price": "300",
+      "products": "Pizza-Burger.json",
+      "stars": "5",
+      "time_of_delivery": "1.20"
+   },
+   {
+      "image": "./img/cards/card6.png",
+      "kitchen": "блинчики, пироги, пиццы, выпечка, лепешки, пельмени",
+      "name": "Partners",
+      "price": "200",
+      "products": "Partners.json",
+      "stars": "4",
+      "time_of_delivery": "1.30"
+   }
+]

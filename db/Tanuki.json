@@ -1,0 +1,72 @@
+[
+   {
+      "id": "01",
+      "name": "Филадельфия Нисуаз",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "244",
+      "image": "./img/restaurant/element1.jpg"
+   },
+   {
+      "id": "02",
+      "name": "Гункан-маки",
+      "description": "огурцы, авокадо, редис, авокадо, томати",
+      "price": "251",
+      "image": "./img/restaurant/element2.webp"
+   },
+   {
+      "id": "03",
+      "name": "Макидзуси",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "266",
+      "image": "./img/restaurant/element3.jfif"
+   },
+   {
+      "id": "04",
+      "name": "Футомаки",
+      "description": "огурцы, авокадо, редис, авокадо, томати",
+      "price": "700",
+      "image": "./img/restaurant/element4.jfif"
+   },
+   {
+      "id": "05",
+      "name": "Хосомаки",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "640",
+      "image": "./img/restaurant/element5.jfif"
+   },
+   {
+      "id": "06",
+      "name": "Тэмакидзуси",
+      "description": "огурцы, авокадо, редис, авокадо, томати",
+      "price": "520",
+      "image": "./img/restaurant/element6.jfif"
+   },
+   {
+      "id": "07",
+      "name": "Урамаки",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "500",
+      "image": "./img/restaurant/element7.jfif"
+   },
+   {
+      "id": "08",
+      "name": "Осидзуси",
+      "description": "огурцы, авокадо, редис, авокадо, томати",
+      "price": "460",
+      "image": "./img/restaurant/element8.jfif"
+   },
+   {
+      "id": "09",
+      "name": "Нарэдзуси",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "480",
+      "image": "./img/restaurant/element9.jfif"
+   },
+   {
+      "id": "10",
+      "name": "Спринг-роллы",
+      "description": "огурцы, авокадо, редис, авокадо, томати",
+      "price": "478",
+      "image": "./img/restaurant/element10.jfif"
+   }
+]

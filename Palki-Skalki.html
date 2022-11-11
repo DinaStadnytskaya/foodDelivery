@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Restaurant</title>
+   <link rel="stylesheet" href="./files/materialize.min.css" />
+   <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+   <div class="wrapper">
+         <header class="header">
+            <div class="navbar-fixed">
+               <nav>
+                  <div class="nav-wrapper">
+                     <a href="index.html" class="brand-logo left black-text">Restro+</a>
+                     <a href="#" data-target="mobile-demo" class="sidenav-trigger right">
+                        <div class="icon-menu_open"></div>
+                     </a>
+                     <ul id="nav-mobile" class="right hide-on-med-and-down">
+                        <li><a href="#!" class="nav__link">Доставка и оплата</a></li>
+                        <li><a href="#!" class="nav__link">О нас</a></li>
+                        <li><a href="#!" class="nav__link">Ресторанам</a></li>
+                        <li><a href="#!" class="nav__link">Курьерам</a></li>
+                        <li><a href="#!" class="nav__link">Контакты</a></li>
+                     </ul>
+                  </div>
+                  <!--/nav-wrapper -->
+               </nav>
+            </div>
+            <div class="navbar-fixed">
+               <nav>
+                  <div class="nav-wrapper">
+                     <ul class="" id="nav-mobile">
+                        <li><a href="#myModal" class="nav__link button-auth modal-link">Вход</a></li>
+                        <li><a href="#!" class="nav__link">Регистрация</a></li>
+                        <li><a class="nav__link button button-out">Выйти</a></li>
+                        <li><a href="#!" class="nav__link user-name"></a></li>
+                        <li><a href="#myModal2" class="nav__link button button-cart modal-link" id="cartButton">Корзина</a>
+                        </li>
+                     </ul>
+                  </div>
+                  <!--/nav-wrapper -->
+               </nav>
+            </div>
+            <ul class="sidenav" id="mobile-demo">
+               <li><a href="#!" class="nav__link">Доставка и оплата</a></li>
+               <li><a href="#!" class="nav__link">О нас</a></li>
+               <li><a href="#!" class="nav__link">Ресторанам</a></li>
+               <li><a href="#!" class="nav__link">Курьерам</a></li>
+               <li><a href="#!" class="nav__link">Контакты</a></li>
+            </ul>
+         </header>
+      <div class="container">
+         <div class="section section--second">
+            <div class="section-block">
+               <div class="section-title restaurant-title">Рестораны</div>
+               <div class="section-heading">
+                  <label for="">
+                     <input type="text" class="input input-search" placeholder="Поиск блюд и рецептов">
+                  </label>
+               </div>
+               <!--/section-heading -->
+            </div>
+            <!--/section-block -->
+         </div>
+         <!--/section -->
+      </div>
+      <!--/container -->
+      <main class="main">
+         <div class="container">
+            <div class="cards cards-menu">
+            </div>
+            <!--/ cards cards-menu-->
+         </div>
+         <!--/container -->
+      </main>
+      <!--/main -->
+      <footer class="page-footer black">
+         <div class="container">
+            <div class="row">
+               <a href="#" class="col s12 brand-logo  brand-logo--footer white-text">Restro+</a>
+            </div>
+            <!--/row -->
+            <div class="row">
+               <div class="col s12 offset-s1 m3 offset-m3 l3 offset-l1 xl2 offset-xl2">
+                  <ul>
+                     <li><a class="foot-link grey-text text-lighten-3" href="#!">Доставка и оплата</a></li>
+                     <li><a class="foot-link grey-text text-lighten-3" href="#!">О нас</a></li>
+                     <li><a class="foot-link grey-text text-lighten-3" href="#!">Ресторанам</a></li>
+                     <li><a class="foot-link grey-text text-lighten-3" href="#!">Курьерам</a></li>
+                     <li><a class="foot-link grey-text text-lighten-3" href="#!">Контакты</a></li>
+                  </ul>
+               </div>
+               <div class="col s12 offset-s1  m3 offset-m2  l3 offset-l1 xl2 offset-xl2">
+                  <ul>
+                     <li><a class="foot-link grey-text text-lighten-3" href="#!">Facebook</a></li>
+                     <li><a class="foot-link grey-text text-lighten-3" href="#!">Instagram</a></li>
+                     <li><a class="foot-link grey-text text-lighten-3" href="#!">Twitter</a></li>
+                  </ul>
+               </div>
+               <div class="col s12 offset-s1  m2 offset-m5  l4 xl3 offset-xl1">
+                  <ul>
+                     <li><a class="foot-link grey-text text-lighten-3" href="tel:+3809562478">+3809562478</a></li>
+                     <li><a class="foot-link grey-text text-lighten-3" href="#!">Одесса ул. Канатная д.35</a></li>
+                     <li><a class="foot-link grey-text text-lighten-3"
+                           href="mailto:darknaya@outlook.com">darknaya@outlook.com</a></li>
+                  </ul>
+               </div>
+            </div>
+            <!--/row -->
+         </div>
+         <!--/container -->
+         <div class="footer-copyright">
+            <div class="container">
+               <div class="row">© 2014 Copyright Text <a class="grey-text text-lighten-4 right" href="#!">Карта
+                     сайта</a>
+               </div>
+            </div>
+         </div>
+         <!--/footer-copyright -->
+      </footer>
+      <!--/footer -->
+      <div class="modal-overlay" id="myModal">
+         <div class="modal-wrap">
+            <div class="modal-content">
+               <div class="modal-info">
+                  <div class="modal-text">Авторизация</div>
+                  <a href="#" class="modal-close" type="button">X</a>
+               </div>
+               <form action="" id="loginForm" class="modal-form">
+                  <fieldset class="input-field">
+                     <input type="text" class="user--name" placeholder="Введите свое имя" id="login">
+                     <input type="password" class="user--password" placeholder="Введите свой пароль" id="password">
+                     <input type="submit" class="btn  waves-effect waves-light green" value="Войти" id="exit">
+                     <a href="#!" class="btn waves-effect transparent">Забыли пароль?</a>
+                  </fieldset>
+               </form>
+            </div>
+            <!--/modal-auth -->
+         </div>
+         <!--/ modal-wrap-->
+      </div>
+      <!--/modal-overlay -->
+      <div class="modal-overlay" id="myModal2">
+         <div class="modal-wrap">
+            <div class="modal-content">
+               <div class="modal-info">
+                  <div class="modal-text">Корзина</div>
+                  <a href="#" class="modal-close" type="button">X</a>
+               </div>
+               <!--/modal-info -->
+               <div class="modal-products" id="modalBody">
+               </div>
+               <!--/modal-products -->
+               <div class="modal-footer">
+                  <button class="button button-send  modal-close" id="buttonSend">Оформить заказ</button>
+                  <a href="#!" class="button button-clear modal-close" id="buttonClear">Отмена</a>
+                  <div class="modal-pricetag"></div>
+               </div>
+               <!--/modal-footer -->
+            </div>
+            <!--/modal-content -->
+         </div>
+         <!--/ modal-wrap-->
+      </div>
+      <!--/modal-overlay -->
+   </div>
+   <!--/ wrapper-->
+   <script src="./files/materialize.min.js" type="text/javascript"></script>
+   <script src="./js/popup.js" type="text/javascript"></script>
+   <script src="./js/auth.js" type="text/javascript"></script>
+   <script src="./js/menu.js" type="text/javascript"></script>
+   <script src="./js/cart.js" type="text/javascript"></script>
+</body>
+
+</html>

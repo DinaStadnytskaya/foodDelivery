@@ -1,0 +1,72 @@
+[
+   {
+      "id": "01",
+      "name": "Крабс бургер",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "89",
+      "image": "./img/restaurant/element1.jpg"
+   },
+   {
+      "id": "02",
+      "name": " Бургер а ля рус",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "125",
+      "image": "./img/restaurant/element2.webp"
+   },
+   {
+      "id": "03",
+      "name": "Бургер филе о фиш",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "245",
+      "image": "./img/restaurant/element3.jfif"
+   },
+   {
+      "id": "04",
+      "name": "Цезарь бургер",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "275",
+      "image": "./img/restaurant/element4.jfif"
+   },
+   {
+      "id": "05",
+      "name": "Бургер Капрезе с овощным салатом",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "263",
+      "image": "./img/restaurant/element5.jfif"
+   },
+   {
+      "id": "06",
+      "name": "Васаби-бургер",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "255",
+      "image": "./img/restaurant/element6.jfif"
+   },
+   {
+      "id": "07",
+      "name": "Бургер с курицей и лёгким салатом",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "274",
+      "image": "./img/restaurant/element7.jfif"
+   },
+   {
+      "id": "08",
+      "name": "Бургер по-фински с копченой форелью",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "240",
+      "image": "./img/restaurant/element8.jfif"
+   },
+   {
+      "id": "09",
+      "name": "Бургер три сыра",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "201",
+      "image": "./img/restaurant/element9.jfif"
+   },
+   {
+      "id": "10",
+      "name": "Бургер BBQ",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "216",
+      "image": "./img/restaurant/element10.jfif"
+   }
+]

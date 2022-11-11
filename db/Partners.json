@@ -1,0 +1,72 @@
+[
+   {
+      "id": "01",
+      "name": "Филадельфия Нисуаз",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "127",
+      "image": "./img/restaurant/element1.jpg"
+   },
+   {
+      "id": "02",
+      "name": "Греческий салат",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "504",
+      "image": "./img/restaurant/element2.webp"
+   },
+   {
+      "id": "03",
+      "name": "Салат со шпинатом",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "324",
+      "image": "./img/restaurant/element3.jfif"
+   },
+   {
+      "id": "04",
+      "name": "Салат с грибами",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "116",
+      "image": "./img/restaurant/element4.jfif"
+   },
+   {
+      "id": "05",
+      "name": "Салат с гранатом",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "167",
+      "image": "./img/restaurant/element5.jfif"
+   },
+   {
+      "id": "06",
+      "name": "Салат печеночный",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "329",
+      "image": "./img/restaurant/element6.jfif"
+   },
+   {
+      "id": "07",
+      "name": "Шуба",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "290",
+      "image": "./img/restaurant/element7.jfif"
+   },
+   {
+      "id": "08",
+      "name": "Салат с орехами",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "128",
+      "image": "./img/restaurant/element8.jfif"
+   },
+   {
+      "id": "09",
+      "name": "Слоеный салат",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "200",
+      "image": "./img/restaurant/element9.jfif"
+   },
+   {
+      "id": "10",
+      "name": "Салат с копченой колбасой",
+      "description": "угорь, авокадо, сыр, тобико, соус Нисуаз, кунжут",
+      "price": "174",
+      "image": "./img/restaurant/element10.jfif"
+   }
+]
